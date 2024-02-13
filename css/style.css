@@ -1,0 +1,12 @@
+*{
+    font-family: "Poppins",sans-serif;
+}
+.banner{
+    background-image: url(/portfolio/images/old-camera-notebook-laptop-with-blue-pencil-cup-cappuccino-white-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+.skills-padding{
+    padding: 50px 0;
+}
